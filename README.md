@@ -1,2 +1,3 @@
 # Youtube-video-downloader
-small script to download yt videos in highest resoltuion
+Script to download yt videos in highest resoltuion.
+Just add the link on the prompt and watch magic happen.
