@@ -1,3 +1,7 @@
 # Youtube-video-downloader
-Script to download yt videos in highest resoltuion.
-Just add the link on the prompt and watch magic happen.
+
+There are 2 codes:
+
+1. Script to download youtube video but using the command line.
+
+2. Script to download youtube video which also has a GUI made using tkinter.
